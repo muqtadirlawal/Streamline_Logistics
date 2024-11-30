@@ -39,39 +39,26 @@ This project's primary objectives are to develop an Excel interactive dashboard 
 - Elevate overall customer satisfaction and safeguard our reputation as an industry leader.
 
 ## Data Description
-This case study contains 4 datasets and they are as follows;
-- Customer Data:
-  - Customer_ID: A unique identifier for each customer.
-  - Age (years): The age of the customer in years.
-  - Gender: The gender of the customer (e.g., Male, Female, Other).
-  - Income ($): The annual income of the customer in dollars.
-  - Geographic Location: The customer's geographic location (e.g., city, state).
+The data for this project comprises of the following;
 
-- Sales Data:
-  - Transaction_ID: A unique identifier for each sales transaction.
-  - Customer_ID: The identifier linking each sale to a customer.
-  - Product SKU: Unique identifier for each product.
-  - Quantity Sold (units): The number of units sold for each product.
-  - Timestamp: The date and time of each sales transaction.
- 
-- Inventory Data:
-  - Product SKU: Unique identifier for each product, linking to sales data.
-  - Current Inventory Level (units): The number of units of each product currently in inventory.
-  - Stockout (days): The number of days a product has been out of stock.
-  - Replenishment Lead time (days): The number of days it takes to replenish inventory.
-  - Storage Location: The location where the product is stored.
-  - Shelf Life (days): The number of days a product can be stored before expiration.
- 
-- Production Data:
-  - Product SKU: Unique identifier for each product, linking to sales and inventory data.
-  - Production Schedule_ID: A unique identifier for each production schedule.
-  - Lead Time (days): The time required for manufacturing and distribution.
-  - Production Capacities (units per hour): The number of units that can be produced per hour.
-  - Resource Allocation: Information about the allocation of resources for production.
+- Order ID: A unique identifier for each customer order.
+- Delivery Address: The address to which the order is to be delivered.
+- Order Timestamp: The date and time when the order was placed (e.g., "2023-09-01 08:00").
+- Order Status: The current status of the order (e.g., "In Progress" or "Completed").
+- Driver ID: A unique identifier for each driver assigned to deliver orders.
+- Vehicle Info: Information about the delivery vehicle used for the order.
+- Current Location: The current location of the delivery driver during order delivery.
+- Delivery Time: The total time taken for delivery, measured in minutes (e.g., "120 min").
+- Delays: Any delays that occurred during the delivery, measured in minutes (e.g., "15 min").
+- Customer Feedback: Feedback from the customerregarding the delivery experience (e.g., "Positive" or "Negative").
+- Route: The specific route taken by the delivery driver for the order.
+- Delivery Zone: The geographic zone or area where the delivery is made.
+- Allocation Rules: Rules used to allocate resources for the delivery (e.g., "Standard Rules" or "Expedited Rules").
+- Timestamp for Tracking: The date and time of tracking data points (e.g., "2023-09-01 08:15").
 
 ## Tech Stack
 Tool– Microsoft Excel
-- Utilized for creating the interactive dashboard, data visualization, and reporting.
+- Utilized for creating the interactive dashboard, data visualization, and automated ad-hoc report generation using office scripts.
 - Data Processing Tools: Leveraging Excel's data manipulation and analysis functions.
 - Visualization Tools: Employing Excel's charts, graphs, and pivot tables for order and delivery data visualization.
 
