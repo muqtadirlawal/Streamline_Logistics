@@ -31,10 +31,12 @@ Order fulfillment is the backbone of the company's  operations in the Logistics 
 - Reputation Management: Addressing these operational challenges is paramount to preserving Streamline Logistics Solutions' sterling reputation for delivering excellence consistently.
 
 ## Aim of the Project
-The primary objectives of this project are:
-- Customer Segmentation: To segment and profile SmartHome Solutions Inc.'s customer base to gain insights into their preferences, buying behaviors, and geographic distribution. 
-- Data-Driven Planning: To enhance production planning, inventory management, and distribution strategies based on customer segments, thereby reducing overproduction and minimizing excess inventory. 
-- Customer-Centric Approach: To improve on-time deliveries, increase customer satisfaction, and align production with customer demands. 
+This project's primary objectives are to develop an Excel interactive dashboard that provides unparalleled visibility into our order fulfillment processes. Also, in order to adequately track and monitor some important metrics important to the business, an automated ad-hoc report will be generated to continously monitor these metrics. Through this, we aim to:
+- Efficiently allocate delivery resources based on order volume and location.
+- Monitor order progress and proactively identify potential delays.
+- Enhance customer communication with timely delivery status updates.
+- Reduce order backlogs and operational costs.
+- Elevate overall customer satisfaction and safeguard our reputation as an industry leader.
 
 ## Data Description
 This case study contains 4 datasets and they are as follows;
