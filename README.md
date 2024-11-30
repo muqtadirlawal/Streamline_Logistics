@@ -9,7 +9,6 @@
 - [Tech Stack](#tech-stack)
 - [Project Scope](#project-scope)
 - [Insights and Recommendations](#insights-and-recommendations)
-- [Implementation Pathway](#implementation-pathway)
 
 ## Business Problem
 Streamline Logistics Solutions encounter several pressing challenges within their order fulfillment process, namely:
@@ -63,10 +62,29 @@ Tool– Microsoft Excel
 - Visualization Tools: Employing Excel's charts, graphs, and pivot tables for order and delivery data visualization.
 
 ## Project Scope
-- Exploratory Data Analysis: Explore the data to understand its characteristics and discover patterns. 
-- Data Analysis: This includes the Customer segmentation, profiling, production planning and performance monitoring.
-- Visualization and Reporting: Create interactive dashboards in Excel to visualize insights.  
-- Recommendation: Integrate the data-driven supply chain planning process into the company's existing systems and processes.
+1. Data Preprocessing and Exploratory Analysis
+   - Rigorous data formatting and preparation
+   - Identify patterns, correlations, and potential data anomalies
+   - Address any data quality issues
+
+2. Data Augmentation
+   - Enrich the original dataset with additional relevant information
+   - Prepare data to comprehensively answer business questions
+
+3. Data Visualization and Dashboard Design
+   - Create visual representations of key insights
+   - Develop an interactive Excel dashboard with intuitive data visualization components
+   - Effectively communicate findings through clear and compelling visuals
+
+4. Automated Reporting
+   - Create Office Scripts to automate ad-hoc report generation
+   - Develop scripts to calculate and track important business metrics
+   - Ensure consistent and efficient metric tracking
+
+5. Interpretation and Recommendations
+   - Extract meaningful insights from the analyzed data
+   - Develop comprehensive documentation
+   - Provide actionable recommendations based on the analysis
 
 ## Insights and Recommendations
 ![](Overview.png)
@@ -74,7 +92,7 @@ Tool– Microsoft Excel
 
 You can view and interact with the dashboard [here](https://hullacuk-my.sharepoint.com/personal/m_o_lawal-2021_hull_ac_uk/_layouts/15/Doc.aspx?sourcedoc={82d09735-b334-48bd-ba3d-d88c401bae9f}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
-## General Insights
+## Insights
 
 1. Diverse Customer Base: The even distribution across different ages and the presence of various gender groups indicate a wide-ranging customer base.
 
@@ -119,10 +137,3 @@ You can view and interact with the dashboard [here](https://hullacuk-my.sharepoi
    - Community Building: Engage with different customer groups to build brand loyalty and gain deeper insights into their preferences.
    - Responsive Customer Service: Provide excellent customer service, especially to the dominant adult low-income segment, to foster long-term relationships.
 
-## Implementation Pathway
-
-- Short-Term: Focus on inventory adjustments and marketing campaigns targeting key segments and high-value SKUs.
-- Medium-Term: Develop and refine products based on customer segment feedback and sales data analysis.
-- Long-Term: Invest in technology and processes that enhance understanding of customer preferences and market dynamics, enabling agile and responsive supply chain management.
-
-By adopting these recommendations, SmartHome Solutions Inc. can better align its products and services with the diverse needs of its customer base, optimising both customer satisfaction and operational efficiency.
