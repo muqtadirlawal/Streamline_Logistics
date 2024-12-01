@@ -10,6 +10,13 @@
 - [Project Scope](#project-scope)
 - [Insights and Recommendations](#insights-and-recommendations)
 
+## Business Introduction
+Streamline Logistics Solutions is a distinguished veteran of the supply chain and logistics industry with over two decades of proven expertise. They have built their reputation through an unwavering commitment to exceptional service, delivering a diverse range of products nationwide with remarkable speed and reliability.
+
+As a top player in the industry, they have established themselves as a critical pillar of dependability, offering businesses and consumers a transportation partner they can trust implicitly. Their operational model ensures that every shipment is handled with precision and care, transforming logistical challenges into seamless experiences.
+
+Yet, despite their impressive track record of success and continued growth, they now confront an operational challenge that demands innovative strategic solutions. This challenge represents an opportunity to further elevate their already stellar service excellence, pushing the boundaries of what is possible in logistics management.
+
 ## Business Problem
 Streamline Logistics Solutions encounter several pressing challenges within their order fulfillment process, namely:
 - Mounting Order Backlogs: Their current routing and resource allocation processes have led to a growing backlog of orders. This situation is compromising delivery timelines and diminishing customer satisfaction.
