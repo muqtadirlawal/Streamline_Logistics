@@ -1,4 +1,4 @@
-# Optimizing Order Fulfillment with Excel Dashboards and Automating KPIs via Office Scripts
+# Optimizing Order Fulfillment and Creating Automated Reports with Excel Dashboards and Office Scripts
 
 ## Table of Contents
 
