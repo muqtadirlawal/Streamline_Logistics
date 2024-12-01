@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Business Introduction](#business-introduction)
 - [Business Problem](#business-problem)
 - [Rationale for the Project](#rationale-for-the-project)
 - [Aim of the Project](#aim-of-the-project)
