@@ -56,7 +56,7 @@ The data for this project comprises of the following;
 - Timestamp for Tracking: The date and time of tracking data points (e.g., "2023-09-01 08:15").
 
 ## Tech Stack
-Tool– Microsoft Excel
+Tool – Microsoft Excel
 - Utilized for creating the interactive dashboard, data visualization, and automated ad-hoc report generation using office scripts.
 - Data Processing Tools: Leveraging Excel's data manipulation and analysis functions.
 - Visualization Tools: Employing Excel's charts, graphs, and pivot tables for order and delivery data visualization.
@@ -92,48 +92,48 @@ Tool– Microsoft Excel
 
 You can view and interact with the dashboard [here](https://hullacuk-my.sharepoint.com/personal/m_o_lawal-2021_hull_ac_uk/_layouts/15/Doc.aspx?sourcedoc={300767bd-d123-4785-a64f-f61272b175a4}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
-## Insights
+## Delivery Performance Analysis: Key Insights and Strategic Recommendations
+Our comprehensive analysis of delivery operations reveals critical opportunities for operational enhancement and customer experience improvement.
 
-1. Diverse Customer Base: The even distribution across different ages and the presence of various gender groups indicate a wide-ranging customer base.
+## Key Insights
 
-2. Income and Age Group Correlation: The majority of customers being adults with High income suggests priority to SKUs for this customer sect.
+1. Order Backlog Management: We identified a substantial operational challenge: 51% of orders (767 out of 1,500) remain unprocessed. This significant backlog poses immediate risks to customer satisfaction and operational efficiency.
 
-3. Geographic Variability: Different preferences in different cities indicate the need for region-specific strategies.
+2. Performance Metrics
 
-4. Product Preferences by Segment: Each customer segment (Type 1 to Type 6) shows distinct preferences for certain SKUs, highlighting the importance of tailored product offerings.
+   - Average Delivery Delay: 15.51 minutes
+   - Drivers with Highest Delay Variance: D86, D44, and D29
+   - Most Challenging Routes: Route 3, Route 1, and Route 2
 
-5. High Value SKUs: The identification of top SKU bought by customers suggests a focused demand for specific products.
+3. Nuanced Performance Observations: Interestingly, the data reveals counterintuitive patterns:
 
-6. Sales Variability and Seasonality: Sales varies for different month when in different locations by different Customer Types.
+   - Positive feedback orders show slightly higher delay times
+   - Bike C consistently experiences marginally longer delivery times compared to Van A
+   - Expedited allocation rules unexpectedly demonstrate less efficiency than standard methods
 
+## Strategic Recommendations
+1. Operational Optimization
 
-## Recommendations
+   - Implement immediate resource reallocation to address existing order backlog
+   - Conduct targeted driver performance training
+   - Develop route optimization strategies focusing on high-delay routes
 
-1. Product Strategy:
-   - Diversification: Develop products catering to the diverse needs of different age and income groups.
-   - Tailoring for High-Value SKUs: Focus production on top SKU from the customer segment, ensuring they are well-stocked and readily available.
+2. Allocation and Resource Strategy
 
-2. Inventory Management:
-   - Dynamic Stocking: Adjust inventory levels based on sales trends of high-value SKUs for each customer type.
-   - Regional Focus: Tailor inventory to regional preferences, ensuring that popular products in each city are adequately stocked based customer preferences.
+   - Critically review current allocation rules, particularly Expedited Rules
+   - Reassess vehicle allocation, potentially reducing Bike C deployments
+   - Develop a more dynamic resource deployment model
 
-3. Marketing and Sales:
-   - Segment-Specific Campaigns: Develop targeted marketing campaigns for each customer segment (Type 1 to Type 6), focusing on their preferred SKUs.
-   - Promotional Timing: Align marketing campaigns with peak sales periods to capitalise on increased demand.
+3. Customer Experience Enhancement
 
-4. Production Planning:
-   - Demand-Driven Production: Adjust production schedules based on the sales trends of the top SKUs which are the specific demands of each customer segment.
-   - Efficiency in Low-Demand Products: For the lower-value SKUs, which are the least sort after SKUs, adopt a lean production approach to minimise excess inventory.
+   - Establish proactive communication protocols for managing customer expectations
+   - Create transparent tracking mechanisms for orders with potential delays
+   - Develop personalized communication strategies based on order type and customer segment
 
-5. Regional Strategies:
-   - Localized Offerings: Customize product offerings and stock levels based on the preferences in Cities A, B, and C.
-   - Distribution Optimization: Optimize distribution and logistics to cater to the unique demands of each geographic location.
+## Next Steps
+Our recommendation is to initiate a phased implementation approach:
+- Immediate (0-30 days): Backlog reduction and communication improvements
+- Short-term (30-90 days): Driver training and route optimization
+- Medium-term (90-180 days): Comprehensive allocation rule and vehicle fleet review
 
-6. Data-Driven Approach:
-   - Continuous Monitoring: Regularly analyze sales data to adapt strategies in real-time.
-   - Feedback Loops: Use customer feedback to refine product offerings and marketing strategies.
-
-7. Customer Engagement:
-   - Community Building: Engage with different customer groups to build brand loyalty and gain deeper insights into their preferences.
-   - Responsive Customer Service: Provide excellent customer service, especially to the dominant adult low-income segment, to foster long-term relationships.
-
+By systematically addressing these insights, we anticipate significant improvements in operational efficiency, customer satisfaction, and overall delivery performance.
